@@ -1,0 +1,7 @@
+package com.LocatorCasestudy;
+
+public class CaseStudy6 {
+	
+	
+	
+}
